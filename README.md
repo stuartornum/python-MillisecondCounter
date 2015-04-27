@@ -7,6 +7,7 @@ A very simple 100% pure python module to get the execution time in millisecond
 
 ```
 from MillisecondCounter import ExecutionCounter
+
 ms = ExecutionCounter()
 
 # Do something here
